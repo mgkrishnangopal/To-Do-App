@@ -1,0 +1,40 @@
+*{
+    background-color:#24255f;
+}
+
+.heading {
+    color: whitesmoke;
+    position: relative;
+    margin top: 10%;
+    text-shadow : 2px 3px 4px ;
+    font-size:50px;
+    text-align : center;
+}
+
+.wrapper{
+    display: flex;
+   /** color: whitesmoke;
+    position: relative;
+    margin top: 10%;
+    text-align: center;
+    margin left:50px;**/
+
+}
+
+.task-name{
+margin-left: 500px ;
+padding: 8px;
+font-size: 20px;
+color: whitesmoke;
+}
+
+.wrapper button{
+margin-left: 20px;
+color:red;
+border: none;
+}
+.wrapper svg{
+    width: 30px;
+    height: 40px;
+
+}
